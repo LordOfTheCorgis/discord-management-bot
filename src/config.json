@@ -1,0 +1,82 @@
+{
+    "channels": {
+        "logs": {
+            "moderation": "111111111111111111",
+            "roles": "111111111111111111"
+        },
+        "requests": {
+            "roles": "111111111111111111"
+        },
+        "welcome": "111111111111111111",
+        "staffWaiting": "111111111111111111",
+        "application": "111111111111111111"
+    },
+    "colors": {
+        "default": "#2B2D31",
+        "success": "#57F287",
+        "error": "#ED4245",
+        "warning": "#FEE75C"
+    },
+    "branding": {
+        "name": "Server Name™",
+        "footer": "Server Name™",
+        "links": {
+            "connect": "https://play.server.net",
+            "cad": "https://cad.server.net"
+        }
+    },
+    "serverStatusChannel": "111111111111111111",
+    "statusUpdateInterval": 15000,
+    "filters": {
+        "restrictedWords": [
+            "nigger",
+            "nigga",
+            "faggot",
+            "fag",
+            "retard",
+            "retarded",
+            "queer",
+            "cunt",
+            "whore",
+            "slut",
+            "bitch",
+            "bastard",
+            "dickhead",
+            "asshole"
+        ],
+        "discordLinkRoles": [
+			"111111111111111111"
+        ],
+        "linkPostWhitelistedChannels": [
+            "111111111111111111",
+            "111111111111111111"
+        ]
+    },
+    "tickets": {
+        "supportRole": "111111111111111111",
+        "categories": {
+            "support": "111111111111111111",
+            "report": "111111111111111111",
+            "development": "111111111111111111",
+            "management": "111111111111111111",
+            "closed": "111111111111111111"
+        }
+    },
+    "roles": {
+        "requestHandler": "111111111111111111",
+        "member": "111111111111111111",
+        "autoRole": "111111111111111111",
+        "moderation": {
+            "globalBan": "111111111111111111",
+            "globalKick": "111111111111111111",
+            "timeout": "111111111111111111",
+            "lock": "111111111111111111",
+            "purge": "111111111111111111",
+            "tempRole": "111111111111111111",
+            "remove": "111111111111111111"
+        }
+    },
+    "guilds": {
+        "main": "111111111111111111"
+    }
+} 
